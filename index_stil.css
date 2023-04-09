@@ -38,3 +38,11 @@
     .skills{
         list-style: none;
     }
+    .date_habilidades{
+        display: grid;
+        grid-template-columns:auto;
+        text-align: left;
+    }
+    .emp{
+        font-weight: bold;
+    }
