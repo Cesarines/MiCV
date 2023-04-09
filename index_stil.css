@@ -3,3 +3,10 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.titl{
+    display: grid;
+    grid-template-columns:100%;  
+    justify-items: center;
+  align-items: center;
+
+}
